@@ -1,4 +1,1 @@
-클라우드 및 깃허브
-소스트리 GUI
-third_cli_exe1
-fourth_cli_exe2
+기능1추가
